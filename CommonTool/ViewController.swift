@@ -1,10 +1,10 @@
 //
 //  ViewController.swift
-//  CommonTool
+//  工具类
 //
 //  Created by zx on 2021/7/13.
 //
-
+    
 import UIKit
 
 class ViewController: UIViewController {
@@ -26,4 +26,7 @@ class ViewController: UIViewController {
         auth.becomeFirstRegister()
     }
 }
+
+
+
 
